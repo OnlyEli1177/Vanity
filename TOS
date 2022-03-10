@@ -1,0 +1,19 @@
+Privacy Policy
+The user information collected or stored by Vanity consists Discord user ID's or usernames explicitly for associating user-provided or generated information with the specified user. 
+Usage of Vanity is seen as an agreement to this privacy policy and an understanding of the user data it collects.
+
+Who has access to this data?
+Only one of 3 owners (myself) at the time of writing this has access to this information in full. This data is not provided to any user and is not readily accessable at any given time.
+
+How is the data stored?
+All data that is stored or queried by Vanity is in a JSON formatted PostGreSQL database.
+
+Vanity in regards to the Discord Terms Of Service.
+Vanity complies with the Discord Terms of Service, including the newly implemented Message Intent rule/limitation
+
+Account Limitation
+Abusive usage of Vanity such as spam messages, uploading data containing slurs/coarse language and any other forms of abusive behaviour are subject to limitation of Vanity's services and features i.e added to the blacklist
+
+User Data Deletion
+At any given time, you (the user) can request to have all information regarding or pertaining to yourself or your account removed from Vanity at any given point, simply contact OnlyEli#8144
+
